@@ -1,0 +1,1 @@
+mkdir -p exercice_011 && cut -d',' -f1 data.csv | tee exercice_011/col1.txt > /dev/null && cut -d',' -f2 data.csv | tr '[:lower:]' '[:upper:]' | tee exercice_011/col2.txt > /dev/null && paste -d' ' <(cut -d',' -f1 data.csv) <(cut -d',' -f2 data.csv) | sed 's/\(.*\) \(.*\)/\1 habite à \2/' | tee exercice_011/summary.txt > /dev/null

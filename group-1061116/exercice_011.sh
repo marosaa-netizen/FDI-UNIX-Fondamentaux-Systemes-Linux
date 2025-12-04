@@ -1,0 +1,1 @@
+#!/bin/bash; rep="backup_hosts"; mkdir -p "$rep"; src="/etc/hosts"; dest="$rep/hosts"; sum1=$(md5sum "$src" | awk '{print $1}'); cp "$src" "$dest"; sum2=$(md5sum "$dest" | awk '{print $1}'); if [ "$sum1" = "$sum2" ]; then echo "La copie a réussi : les checksums correspondent."; else echo "Erreur : les checksums ne correspondent pas."; fi

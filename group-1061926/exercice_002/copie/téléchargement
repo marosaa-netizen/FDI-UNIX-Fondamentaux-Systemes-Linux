@@ -1,0 +1,1280 @@
+<!DOCTYPE html>
+<html lang="fr-FR" class="no-touch no-js">
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="profile" href="https://gmpg.org/xfn/11">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Titillium+Web:ital,wght@0,300;0,400;0,700;1,400;1,700&display=swap"
+    rel="stylesheet">
+      <script>
+    function myScript() {
+      const script = document.createElement('script');
+      script.src = 'https://cache.consentframework.com/js/pa/23324/c/RFx5U/stub';
+      script.type = 'text/javascript';
+      script.async = true;
+      document.head.prepend(script);
+    }
+    function myScript2() {
+      const script = document.createElement('script');
+      script.src = 'https://tag.analytics-helper.com/ans/ga?pa=31745&c=400&tid=UA-84142588-2%2CG-326173547';
+      script.type = 'text/javascript';
+      script.async = true;
+      document.head.prepend(script);
+    }
+    function myScript3() {
+      const script = document.createElement('script');
+      script.src = 'https://cdn.sirdata.eu/wyoutube.js?pa=23324';
+      script.type = 'text/javascript';
+      script.async = true;
+      document.head.prepend(script);
+    }
+    function myScript4() {
+      const script = document.createElement('script');
+      script.src = 'https://choices.consentframework.com/js/pa/23324/c/RFx5U/cmp';
+      script.type = 'text/javascript';
+      script.async = true;
+      document.head.prepend(script);
+    }
+    function myScript5() {
+      const script = document.createElement('script');
+      script.src = '//www.googletagmanager.com/gtm.js?id=GTM-WLPLGD3';
+      script.type = 'text/javascript';
+      script.async = true;
+      document.head.prepend(script);
+    }
+  </script>
+
+  <script>
+    var myEvents = "mousemove touchstart".split(" ");
+
+    for (var i=0, len = myEvents.length; i < len; i++) {
+      console.log(myEvents[i]);
+      addEventListener(myEvents[i],
+        () => {
+          myScript();
+           myScript2();
+           myScript3();
+           myScript4();
+           myScript5();
+        },
+        { once: true }
+      );
+    }
+  </script>
+
+   <!-- Google Tag Manager -->
+   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WLPLGD3');</script>
+  <!-- End Google Tag Manager -->
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO Premium plugin v25.8 (Yoast SEO v25.8) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Ecole Informatique en Alternance ETNA</title>
+	<meta name="description" content="Poursuivez vos études d&#039;informatique en entreprise avec les formations en alternance de l&#039;ETNA - Titres BAC+3 et BAC+5 reconnus par l&#039;Etat niveaux II et I." />
+	<link rel="canonical" href="https://etna.io/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Ecole Informatique en Alternance ETNA" />
+	<meta property="og:description" content="Poursuivez vos études d&#039;informatique en entreprise avec les formations en alternance de l&#039;ETNA - Titres BAC+3 et BAC+5 reconnus par l&#039;Etat niveaux II et I." />
+	<meta property="og:url" content="https://etna.io/" />
+	<meta property="og:site_name" content="etna.io" />
+	<meta property="article:publisher" content="https://www.facebook.com/ecole.etna" />
+	<meta property="article:modified_time" content="2025-09-30T09:40:09+00:00" />
+	<meta property="og:image" content="https://etna.io/wp-content/uploads/2018/09/ETNA_Ecole_Alternance_Informatique-1.jpg" />
+	<meta property="og:image:width" content="1290" />
+	<meta property="og:image:height" content="630" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="Ecole Informatique en Alternance ETNA - Bachelor (Bac+3) &amp; MSc (Bac+5)" />
+	<meta name="twitter:description" content="Poursuivez vos études d&#039;informatique en entreprise avec les formations en alternance de l&#039;ETNA - Titres BAC+3 et BAC+5 reconnus par l&#039;Etat niveaux II et I." />
+	<meta name="twitter:image" content="https://etna.io/wp-content/uploads/2018/09/ETNA_Ecole_Alternance_Informatique-1.jpg" />
+	<meta name="twitter:site" content="@etna_io" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://etna.io/","url":"https://etna.io/","name":"Ecole Informatique en Alternance ETNA","isPartOf":{"@id":"https://etna.io/#website"},"about":{"@id":"https://etna.io/#organization"},"primaryImageOfPage":{"@id":"https://etna.io/#primaryimage"},"image":{"@id":"https://etna.io/#primaryimage"},"thumbnailUrl":"https://etna.io/wp-content/uploads/2023/01/texture-arriere-plan-1.jpg","datePublished":"2018-08-02T08:07:50+00:00","dateModified":"2025-09-30T09:40:09+00:00","description":"Poursuivez vos études d'informatique en entreprise avec les formations en alternance de l'ETNA - Titres BAC+3 et BAC+5 reconnus par l'Etat niveaux II et I.","breadcrumb":{"@id":"https://etna.io/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://etna.io/"]}]},{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://etna.io/#primaryimage","url":"https://etna.io/wp-content/uploads/2023/01/texture-arriere-plan-1.jpg","contentUrl":"https://etna.io/wp-content/uploads/2023/01/texture-arriere-plan-1.jpg","width":2880,"height":1485,"caption":"fond mauve avec points brillants"},{"@type":"BreadcrumbList","@id":"https://etna.io/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://etna.io/#website","url":"https://etna.io/","name":"etna.io","description":"Ecole des technologies numériques avancées","publisher":{"@id":"https://etna.io/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://etna.io/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"fr-FR"},{"@type":"Organization","@id":"https://etna.io/#organization","name":"ETNA","url":"https://etna.io/","logo":{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://etna.io/#/schema/logo/image/","url":"https://etna.io/wp-content/uploads/2018/10/Logo-ETNA-Ecole-Informatique-Alternance.png","contentUrl":"https://etna.io/wp-content/uploads/2018/10/Logo-ETNA-Ecole-Informatique-Alternance.png","width":300,"height":94,"caption":"ETNA"},"image":{"@id":"https://etna.io/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/ecole.etna","https://x.com/etna_io"]}]}</script>
+	<meta name="google-site-verification" content="k0eIGgZZk4qzWOlDBLTZ6Hre-2QfVehXpbMqNSCGaU8" />
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//etna.io' />
+<link rel='dns-prefetch' href='//static.ionis-group.com' />
+<link rel="alternate" type="application/rss+xml" title="etna.io &raquo; Flux" href="https://etna.io/feed/" />
+<link rel="alternate" type="application/rss+xml" title="etna.io &raquo; Flux des commentaires" href="https://etna.io/comments/feed/" />
+<style id='wp-block-heading-inline-css'>
+h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-background,h6.has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+</style>
+<link rel='stylesheet' id='wp-block-cover-css' href='https://etna.io/wp-includes/blocks/cover/style.min.css?ver=6.7.1' media='all' />
+<style id='wp-block-paragraph-inline-css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+</style>
+<style id='wp-block-columns-inline-css'>
+.wp-block-columns{align-items:normal!important;box-sizing:border-box;display:flex;flex-wrap:wrap!important}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-stretch{align-self:stretch}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
+</style>
+<style id='wp-block-buttons-inline-css'>
+.wp-block-buttons.is-vertical{flex-direction:column}.wp-block-buttons.is-vertical>.wp-block-button:last-child{margin-bottom:0}.wp-block-buttons>.wp-block-button{display:inline-block;margin:0}.wp-block-buttons.is-content-justification-left{justify-content:flex-start}.wp-block-buttons.is-content-justification-left.is-vertical{align-items:flex-start}.wp-block-buttons.is-content-justification-center{justify-content:center}.wp-block-buttons.is-content-justification-center.is-vertical{align-items:center}.wp-block-buttons.is-content-justification-right{justify-content:flex-end}.wp-block-buttons.is-content-justification-right.is-vertical{align-items:flex-end}.wp-block-buttons.is-content-justification-space-between{justify-content:space-between}.wp-block-buttons.aligncenter{text-align:center}.wp-block-buttons:not(.is-content-justification-space-between,.is-content-justification-right,.is-content-justification-left,.is-content-justification-center) .wp-block-button.aligncenter{margin-left:auto;margin-right:auto;width:100%}.wp-block-buttons[style*=text-decoration] .wp-block-button,.wp-block-buttons[style*=text-decoration] .wp-block-button__link{text-decoration:inherit}.wp-block-buttons.has-custom-font-size .wp-block-button__link{font-size:inherit}.wp-block-button.aligncenter{text-align:center}
+</style>
+<style id='wp-block-post-content-inline-css'>
+.wp-block-post-content{display:flow-root}
+</style>
+<style id='wp-block-library-inline-css'>
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px;--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color)}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip:auto!important;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #FFF;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary: #2A2773;--wp--preset--color--secondary: #F26521;--wp--preset--color--secondary-light: #FDE8DE;--wp--preset--color--grey-light: #F6F6F6;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--etna: radial-gradient(circle at left center, transparent 55%, #3E2161 80%, #04010C 100%), radial-gradient(circle at center, #3B67A4, #221C5A 70%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}.wp-block-button .wp-block-button__link{--wp--preset--color--primary: #2A2773;--wp--preset--color--secondary: #F26521;--wp--preset--color--white: #FFFFFF;}p{--wp--preset--font-size--small: .7rem;--wp--preset--font-size--medium: 1.125rem;--wp--preset--font-size--large: 1.75rem;--wp--preset--font-size--x-large: 2.25rem;}:root { --wp--style--global--content-size: 1460px;--wp--style--global--wide-size: 1556px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: underline;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-color{color: var(--wp--preset--color--primary) !important;}.has-secondary-color{color: var(--wp--preset--color--secondary) !important;}.has-secondary-light-color{color: var(--wp--preset--color--secondary-light) !important;}.has-grey-light-color{color: var(--wp--preset--color--grey-light) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-background-color{background-color: var(--wp--preset--color--primary) !important;}.has-secondary-background-color{background-color: var(--wp--preset--color--secondary) !important;}.has-secondary-light-background-color{background-color: var(--wp--preset--color--secondary-light) !important;}.has-grey-light-background-color{background-color: var(--wp--preset--color--grey-light) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-border-color{border-color: var(--wp--preset--color--primary) !important;}.has-secondary-border-color{border-color: var(--wp--preset--color--secondary) !important;}.has-secondary-light-border-color{border-color: var(--wp--preset--color--secondary-light) !important;}.has-grey-light-border-color{border-color: var(--wp--preset--color--grey-light) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-etna-gradient-background{background: var(--wp--preset--gradient--etna) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.wp-block-button .wp-block-button__link.has-primary-color{color: var(--wp--preset--color--primary) !important;}.wp-block-button .wp-block-button__link.has-secondary-color{color: var(--wp--preset--color--secondary) !important;}.wp-block-button .wp-block-button__link.has-white-color{color: var(--wp--preset--color--white) !important;}.wp-block-button .wp-block-button__link.has-primary-background-color{background-color: var(--wp--preset--color--primary) !important;}.wp-block-button .wp-block-button__link.has-secondary-background-color{background-color: var(--wp--preset--color--secondary) !important;}.wp-block-button .wp-block-button__link.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.wp-block-button .wp-block-button__link.has-primary-border-color{border-color: var(--wp--preset--color--primary) !important;}.wp-block-button .wp-block-button__link.has-secondary-border-color{border-color: var(--wp--preset--color--secondary) !important;}.wp-block-button .wp-block-button__link.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}p.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}p.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}p.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}p.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+</style>
+<style id='block-style-variation-styles-inline-css'>
+:root :where(.wp-block-button.is-style-outline--1 .wp-block-button__link){background: transparent none;border-color: currentColor;border-width: 2px;border-style: solid;color: currentColor;padding-top: 0.667em;padding-right: 1.33em;padding-bottom: 0.667em;padding-left: 1.33em;}
+</style>
+<style id='core-block-supports-inline-css'>
+.wp-container-core-columns-is-layout-1{flex-wrap:nowrap;}.wp-container-core-buttons-is-layout-1{justify-content:flex-end;}.wp-container-core-columns-is-layout-2{flex-wrap:nowrap;}
+</style>
+<link rel='stylesheet' id='wp-job-manager-job-listings-css' href='https://etna.io/wp-content/plugins/wp-job-manager/assets/dist/css/job-listings.css?ver=598383a28ac5f9f156e4' media='all' />
+<link rel='stylesheet' id='style-css' href='https://etna.io/wp-content/themes/etna-refonte-theme/dist/css/style.css' media='all' />
+<script src="https://etna.io/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://etna.io/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="https://etna.io/wp-content/plugins/wordpress-plugin-eventdb-v2/inc/../js/moment.min.js?ver=6.7.1" id="moment-script-js"></script>
+<script defer="defer" src="https://etna.io/wp-content/plugins/wordpress-plugin-eventdb-v2/inc/../js/Eventdb.js?ver=6.7.1" id="eventdb-script-js"></script>
+<script id="shortcode-script-js-extra">
+var login = ["api.etna@ionis-group.com","2?+R2UJtnAK%egWaL}=7d,p7"];
+</script>
+<script src="https://etna.io/wp-content/plugins/wordpress-plugin-eventdb-v2/inc/../js/shortcode.js?ver=6.7.1" id="shortcode-script-js"></script>
+<link rel="https://api.w.org/" href="https://etna.io/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://etna.io/wp-json/wp/v2/pages/157" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://etna.io/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.1" />
+<link rel='shortlink' href='https://etna.io/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://etna.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fetna.io%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://etna.io/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fetna.io%2F&#038;format=xml" />
+<link rel="icon" href="https://etna.io/wp-content/uploads/2018/09/favicon-1.png" sizes="32x32" />
+<link rel="icon" href="https://etna.io/wp-content/uploads/2018/09/favicon-1.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://etna.io/wp-content/uploads/2018/09/favicon-1.png" />
+<meta name="msapplication-TileImage" content="https://etna.io/wp-content/uploads/2018/09/favicon-1.png" />
+
+    <script>
+    var html = document.getElementsByTagName('html')[0];
+    html.classList.remove('no-js');
+    html.classList.add('js');
+
+    var template_directory_uri = 'https://etna.io/wp-content/themes/etna-refonte-theme';
+  </script>
+</head>
+
+<body class="home page-template-default page page-id-157 wp-embed-responsive group-blog etna-2023">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WLPLGD3" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  
+  <div id="top" class="layout-container">
+
+    <header class="header">
+      
+            <div class="header_main">
+        <div class="container">
+                    <div class="header_logo">
+            <a href="https://etna.io" title="">
+              <picture>
+                <source media="(min-width: 1200px)"
+                  srcset="https://etna.io/wp-content/themes/etna-refonte-theme/assets/images/logo-etna.png, https://etna.io/wp-content/themes/etna-refonte-theme/assets/images/logo-etna@2x.png 2x"
+                  width="185" height="58">
+                <source media="(max-width: 1199px)"
+                  srcset="https://etna.io/wp-content/themes/etna-refonte-theme/assets/images/logo-etna-mobile.png, https://etna.io/wp-content/themes/etna-refonte-theme/assets/images/logo-etna-mobile@2x.png 2x"
+                  width="130" height="41">
+                <img src="https://etna.io/wp-content/themes/etna-refonte-theme/assets/images/logo-etna.png"
+                  srcset="https://etna.io/wp-content/themes/etna-refonte-theme/assets/images/logo-etna@2x.png 2x" width="185"
+                  height="58" alt="ETNA">
+              </picture>
+            </a>
+          </div>
+
+                    <nav class="header_main_nav">
+            <ul id="menu-navigation-principale" class="header_main_menu"><li id="menu-item-205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-205" data-menu-item-id="205"><a href="https://etna.io/ecole/"><span>Ecole</span></a>
+<div class="header_megaMenu_submenu">
+<div class="header_megaMenu_submenu_inner">
+<ul class="sub-menu">	<li id="menu-item-7347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7347" data-menu-item-id="7347"><a title="Qui sommes-nous ?" href="https://etna.io/ecole/qui-sommes-nous/"><span>Qui sommes-nous ?</span></a></li>
+	<li id="menu-item-7443" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7443" data-menu-item-id="7443"><a title="6 raisons de choisir l’ETNA" href="https://etna.io/ecole/6-raisons-de-choisir-letna/"><span>6 raisons de choisir l’ETNA</span></a></li>
+	<li id="menu-item-7304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7304" data-menu-item-id="7304"><a href="https://etna.io/ecole/specialisations-metiers/"><span>9 communautés métiers</span></a></li>
+	<li id="menu-item-927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-927" data-menu-item-id="927"><a title="Blog" href="https://etna.io/blog/"><span>Blog</span></a></li>
+	<li id="menu-item-1685" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1685" data-menu-item-id="1685"><a href="https://etna.io/ecole/temoignages/"><span>Témoignages</span></a></li>
+	<li id="menu-item-4512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4512" data-menu-item-id="4512"><a href="https://etna.io/agenda/"><span>Agenda</span></a></li>
+	<li id="menu-item-925" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-925" data-menu-item-id="925"><a href="https://etna.io/ecole/nous-rencontrer/"><span>Nous rencontrer</span></a></li>
+	<li id="menu-item-338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-338" data-menu-item-id="338"><a href="https://etna.io/ecole/contact/"><span>Contact et accès</span></a></li>
+</ul>
+</div>
+</div></li>
+<li id="menu-item-340" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-340" data-menu-item-id="340"><a href="https://etna.io/formation/"><span>Formation</span></a>
+<div class="header_megaMenu_submenu">
+<div class="header_megaMenu_submenu_inner">
+<ul class="sub-menu">	<li id="menu-item-12655" class="sub-menu-title-orange menu-item menu-item-type-custom menu-item-object-custom menu-item-12655" data-menu-item-id="12655"><span title="PARCOURS DE FORMATION" class="nolink"><span>PARCOURS DE FORMATION</span></span></li>
+	<li id="menu-item-12326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12326" data-menu-item-id="12326"><a title="Vue d’ensemble" href="https://etna.io/formation/parcours-vue-ensemble/"><span>Vue d’ensemble</span></a></li>
+	<li id="menu-item-12519" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12519" data-menu-item-id="12519"><a title="1ère année – en initial" href="https://etna.io/formation/cycle-tronc-commun-annee1/"><span>1ère année – en initial</span></a></li>
+	<li id="menu-item-12518" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12518" data-menu-item-id="12518"><a title="2e année – en alternance" href="https://etna.io/formation/cycle-tronc-commun-annee2/"><span>2e année – en alternance</span></a></li>
+	<li id="menu-item-12656" class="sub-menu-title-grey menu-item menu-item-type-custom menu-item-object-custom menu-item-12656" data-menu-item-id="12656"><span title="DÉVELOPPEMENT" class="nolink"><span>DÉVELOPPEMENT</span></span></li>
+	<li id="menu-item-12530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12530" data-menu-item-id="12530"><a title="3e année - en alternance" href="https://etna.io/formation/cycle-bachelor3/"><span>3e année &#8211; en alternance</span></a></li>
+	<li id="menu-item-12517" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12517" data-menu-item-id="12517"><a title="4e année - en alternance" href="https://etna.io/formation/master-science-1-architecte-systemes-information-specialisation-developpement/"><span>4e année &#8211; en alternance</span></a></li>
+	<li id="menu-item-12516" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12516" data-menu-item-id="12516"><a title="5e année - en alternance" href="https://etna.io/formation/master-science-2-architecte-systemes-information-specialisation-developpement/"><span>5e année &#8211; en alternance</span></a></li>
+	<li id="menu-item-12657" class="sub-menu-title-grey menu-item menu-item-type-custom menu-item-object-custom menu-item-12657" data-menu-item-id="12657"><span title="SYSTÈME ET RÉSEAU" class="nolink"><span>SYSTÈME ET RÉSEAU</span></span></li>
+	<li id="menu-item-12529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12529" data-menu-item-id="12529"><a title="3e année - en alternance" href="https://etna.io/formation/cycle-bachelor3-reseaux/"><span>3e année &#8211; en alternance</span></a></li>
+	<li id="menu-item-12515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12515" data-menu-item-id="12515"><a title="4e année - en alternance" href="https://etna.io/formation/master-science-1-architecte-systemes-information-specialisation-reseaux/"><span>4e année &#8211; en alternance</span></a></li>
+	<li id="menu-item-12514" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12514" data-menu-item-id="12514"><a title="5e année - en alternance" href="https://etna.io/formation/master-science-2-architecte-systemes-information-specialisation-reseaux/"><span>5e année &#8211; en alternance</span></a></li>
+	<li id="menu-item-12658" class="sub-menu-title-grey menu-item menu-item-type-custom menu-item-object-custom menu-item-12658" data-menu-item-id="12658"><span title="LES +" class="nolink"><span>LES +</span></span></li>
+	<li id="menu-item-1359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1359" data-menu-item-id="1359"><a href="https://etna.io/formation/vae/"><span>La V.A.E</span></a></li>
+	<li id="menu-item-12659" class="sub-menu-title-orange menu-item menu-item-type-custom menu-item-object-custom menu-item-12659" data-menu-item-id="12659"><span title="COMMUNAUTÉ MÉTIERS" class="nolink"><span>COMMUNAUTÉ MÉTIERS</span></span></li>
+	<li id="menu-item-12660" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12660" data-menu-item-id="12660"><a title="Big Data &amp; Machine Learning" href="https://etna.io/formation/specialisation-metiers/big-data-machine-learning/"><span>Big Data &#038; Machine Learning</span></a></li>
+	<li id="menu-item-12661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12661" data-menu-item-id="12661"><a href="https://etna.io/formation/specialisation-metiers/blockchain/"><span>Blockchain</span></a></li>
+	<li id="menu-item-12663" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12663" data-menu-item-id="12663"><a href="https://etna.io/formation/specialisation-metiers/cyberdefense/"><span>Cyberdéfense</span></a></li>
+	<li id="menu-item-12664" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12664" data-menu-item-id="12664"><a title="Cloud computing &amp; microservices" href="https://etna.io/formation/specialisation-metiers/logiciel-cloud-microservices/"><span>Cloud computing &#038; microservices</span></a></li>
+	<li id="menu-item-12668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12668" data-menu-item-id="12668"><a title="Développement d’app mobile, web et UX" href="https://etna.io/formation/specialisation-metiers/developpement-applications-web-mobile-ux/"><span>Développement d’app mobile, web et UX</span></a></li>
+	<li id="menu-item-12666" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12666" data-menu-item-id="12666"><a href="https://etna.io/formation/specialisation-metiers/infrastructures-cloud/"><span>Infrastructures du cloud</span></a></li>
+	<li id="menu-item-12665" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12665" data-menu-item-id="12665"><a title="Innovation &amp; entrepreneuriat" href="https://etna.io/formation/specialisation-metiers/management-innovation/"><span>Innovation &#038; entrepreneuriat</span></a></li>
+	<li id="menu-item-12667" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12667" data-menu-item-id="12667"><a title="Réalité virtuelle, augmentée &amp; jeux vidéo" href="https://etna.io/formation/specialisation-metiers/realite-virtuelle-augmentee-jeux-video/"><span>Réalité virtuelle, augmentée &#038; jeux vidéo</span></a></li>
+	<li id="menu-item-12662" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12662" data-menu-item-id="12662"><a title="Systèmes embarqués &amp; objets connectés" href="https://etna.io/formation/specialisation-metiers/systemes-numeriques-embarques-objets-connectes/"><span>Systèmes embarqués &#038; objets connectés</span></a></li>
+	<li id="menu-item-12669" class="sub-menu-item-hidden menu-item menu-item-type-custom menu-item-object-custom menu-item-12669" data-menu-item-id="12669"><span title="Lien vide" class="nolink"><span>Lien vide</span></span></li>
+	<li id="menu-item-12670" class="sub-menu-item-hidden menu-item menu-item-type-custom menu-item-object-custom menu-item-12670" data-menu-item-id="12670"><span title="Lien vide" class="nolink"><span>Lien vide</span></span></li>
+</ul>
+</div>
+</div></li>
+<li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-344" data-menu-item-id="344"><a href="https://etna.io/admission/"><span>Admission</span></a>
+<div class="header_megaMenu_submenu">
+<div class="header_megaMenu_submenu_inner">
+<ul class="sub-menu">	<li id="menu-item-12638" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12638" data-menu-item-id="12638"><a href="https://etna.io/admission/rentree-post-bac/"><span>Rentrée en 1ère année</span></a></li>
+	<li id="menu-item-12639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12639" data-menu-item-id="12639"><a href="https://etna.io/admission/rentrees/"><span>Rentrée en 2e, 3e et 4e année</span></a></li>
+	<li id="menu-item-12644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12644" data-menu-item-id="12644"><a href="https://etna.io/admission/rentree-decalee/"><span>Rentrée décalée</span></a></li>
+	<li id="menu-item-12549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12549" data-menu-item-id="12549"><a href="https://etna.io/admission/etudiants-internationaux/"><span>Étudiants internationaux</span></a></li>
+	<li id="menu-item-3321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3321" data-menu-item-id="3321"><a title="Comment candidater" href="https://etna.io/admission/candidature/"><span>Comment candidater</span></a></li>
+	<li id="menu-item-347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-347" data-menu-item-id="347"><a href="https://etna.io/admission/prix-tarifs-cout-financement/"><span>Tarifs et rémunération</span></a></li>
+	<li id="menu-item-1513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1513" data-menu-item-id="1513"><a href="https://etna.io/admission/faq/"><span>FAQ</span></a></li>
+</ul>
+</div>
+</div></li>
+<li id="menu-item-10229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10229" data-menu-item-id="10229"><a href="https://etna.io/alternance/"><span>Alternance</span></a>
+<div class="header_megaMenu_submenu">
+<div class="header_megaMenu_submenu_inner">
+<ul class="sub-menu">	<li id="menu-item-10235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10235" data-menu-item-id="10235"><a href="https://etna.io/alternance/rythme/"><span>Rythme</span></a></li>
+	<li id="menu-item-10233" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10233" data-menu-item-id="10233"><a href="https://etna.io/alternance/coaching-informatique-alternance/"><span>Le Code to Work</span></a></li>
+	<li id="menu-item-10230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10230" data-menu-item-id="10230"><a href="https://etna.io/alternance/accompagnement/"><span>Accompagnement</span></a></li>
+	<li id="menu-item-10234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10234" data-menu-item-id="10234"><a href="https://etna.io/entreprises/partenariats/"><span>Partenariats</span></a></li>
+	<li id="menu-item-10231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10231" data-menu-item-id="10231"><a title="Après l’ETNA" href="https://etna.io/alternance/apres-etna/"><span>Après l’ETNA</span></a></li>
+</ul>
+</div>
+</div></li>
+<li id="menu-item-10237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10237" data-menu-item-id="10237"><a href="https://etna.io/entreprises/"><span>Entreprises</span></a>
+<div class="header_megaMenu_submenu">
+<div class="header_megaMenu_submenu_inner">
+<ul class="sub-menu">	<li id="menu-item-10238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10238" data-menu-item-id="10238"><a title="Rythme Unique d’Alternance" href="https://etna.io/entreprises/rythme-alternance/"><span>Rythme Unique d’Alternance</span></a></li>
+	<li id="menu-item-10239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10239" data-menu-item-id="10239"><a href="https://etna.io/entreprises/recruter/"><span>Recruter un alternant</span></a></li>
+	<li id="menu-item-10241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10241" data-menu-item-id="10241"><a href="https://etna.io/entreprises/accompagnement/"><span>Accompagnement sur mesure</span></a></li>
+	<li id="menu-item-10240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10240" data-menu-item-id="10240"><a title="Intervenir à l’ETNA" href="https://etna.io/entreprises/intervenir-a-letna/"><span>Intervenir à l’ETNA</span></a></li>
+	<li id="menu-item-8524" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8524" data-menu-item-id="8524"><a title="(Nouvelle fenêtre) Déposer votre offre" target="_blank" href="/cdn-cgi/l/email-protection#0270674267766c632c6b6d"><span>Déposer votre offre</span></a></li>
+</ul>
+</div>
+</div></li>
+</ul>          </nav>
+
+                      <div class="header_ctas header_main_ctas">
+              <div class="wp-block-button"><a href="https://etna.io/ecole/documentation/" class="wp-block-button__link has-secondary-color" >Documentation</a></div><div class="wp-block-button"><a href="https://etna.io/admission/candidature/" class="wp-block-button__link has-secondary-color" >Candidature</a></div><div class="wp-block-button"><a href="https://etna.io/rdv-personnalise/" class="wp-block-button__link has-secondary-color" >Être rappelé</a></div>            </div>
+          
+                    <div class="header_main_cta_appel_mobile">
+            <a href="https://etna.io/rdv-personnalise/" class="header_searchToggle" title="Être rappelé"
+              aria-label="Être rappelé">
+              <i class="icon-appel"></i>
+            </a>
+          </div>
+          
+                    <div class="header_main_search">
+            <a href="#search" class="js-fullpageSearch_toggle header_searchToggle" title="Rechercher sur le site"
+              aria-label="Rechercher sur le site">
+              <i class="icon-recherche"></i>
+            </a>
+          </div>
+
+                    <div class="header_main_toggle">
+            <a href="#" class="burger js-header_megaMenu_toggle" title="Ouvrir le menu" aria-label="Ouvrir le menu">
+              <span class="burger_icon_wrapper">
+                <span class="burger_icon"><span></span></span>
+              </span>
+            </a>
+          </div>
+        </div>
+      </div>
+
+            <div class="header_megaMenu">
+        <div class="header_megaMenu_inner">
+          <div class="header_megaMenu_inner_inner">
+            <div class="header_megaMenu_main">
+              <ul id="menu-navigation-principale-1" class="header_megaMenu_main_menu header_megaMenu_menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-205" data-menu-item-id="205"><a href="https://etna.io/ecole/"><span>Ecole</span></a>
+<div class="header_megaMenu_submenu">
+<div class="header_megaMenu_submenu_inner">
+<ul class="sub-menu">	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7347" data-menu-item-id="7347"><a title="Qui sommes-nous ?" href="https://etna.io/ecole/qui-sommes-nous/"><span>Qui sommes-nous ?</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7443" data-menu-item-id="7443"><a title="6 raisons de choisir l’ETNA" href="https://etna.io/ecole/6-raisons-de-choisir-letna/"><span>6 raisons de choisir l’ETNA</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7304" data-menu-item-id="7304"><a href="https://etna.io/ecole/specialisations-metiers/"><span>9 communautés métiers</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-927" data-menu-item-id="927"><a title="Blog" href="https://etna.io/blog/"><span>Blog</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1685" data-menu-item-id="1685"><a href="https://etna.io/ecole/temoignages/"><span>Témoignages</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4512" data-menu-item-id="4512"><a href="https://etna.io/agenda/"><span>Agenda</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-925" data-menu-item-id="925"><a href="https://etna.io/ecole/nous-rencontrer/"><span>Nous rencontrer</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-338" data-menu-item-id="338"><a href="https://etna.io/ecole/contact/"><span>Contact et accès</span></a></li>
+</ul>
+</div>
+</div></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-340" data-menu-item-id="340"><a href="https://etna.io/formation/"><span>Formation</span></a>
+<div class="header_megaMenu_submenu">
+<div class="header_megaMenu_submenu_inner">
+<ul class="sub-menu">	<li class="sub-menu-title-orange menu-item menu-item-type-custom menu-item-object-custom menu-item-12655" data-menu-item-id="12655"><span title="PARCOURS DE FORMATION" class="nolink"><span>PARCOURS DE FORMATION</span></span></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12326" data-menu-item-id="12326"><a title="Vue d’ensemble" href="https://etna.io/formation/parcours-vue-ensemble/"><span>Vue d’ensemble</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12519" data-menu-item-id="12519"><a title="1ère année – en initial" href="https://etna.io/formation/cycle-tronc-commun-annee1/"><span>1ère année – en initial</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12518" data-menu-item-id="12518"><a title="2e année – en alternance" href="https://etna.io/formation/cycle-tronc-commun-annee2/"><span>2e année – en alternance</span></a></li>
+	<li class="sub-menu-title-grey menu-item menu-item-type-custom menu-item-object-custom menu-item-12656" data-menu-item-id="12656"><span title="DÉVELOPPEMENT" class="nolink"><span>DÉVELOPPEMENT</span></span></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12530" data-menu-item-id="12530"><a title="3e année - en alternance" href="https://etna.io/formation/cycle-bachelor3/"><span>3e année &#8211; en alternance</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12517" data-menu-item-id="12517"><a title="4e année - en alternance" href="https://etna.io/formation/master-science-1-architecte-systemes-information-specialisation-developpement/"><span>4e année &#8211; en alternance</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12516" data-menu-item-id="12516"><a title="5e année - en alternance" href="https://etna.io/formation/master-science-2-architecte-systemes-information-specialisation-developpement/"><span>5e année &#8211; en alternance</span></a></li>
+	<li class="sub-menu-title-grey menu-item menu-item-type-custom menu-item-object-custom menu-item-12657" data-menu-item-id="12657"><span title="SYSTÈME ET RÉSEAU" class="nolink"><span>SYSTÈME ET RÉSEAU</span></span></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12529" data-menu-item-id="12529"><a title="3e année - en alternance" href="https://etna.io/formation/cycle-bachelor3-reseaux/"><span>3e année &#8211; en alternance</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12515" data-menu-item-id="12515"><a title="4e année - en alternance" href="https://etna.io/formation/master-science-1-architecte-systemes-information-specialisation-reseaux/"><span>4e année &#8211; en alternance</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12514" data-menu-item-id="12514"><a title="5e année - en alternance" href="https://etna.io/formation/master-science-2-architecte-systemes-information-specialisation-reseaux/"><span>5e année &#8211; en alternance</span></a></li>
+	<li class="sub-menu-title-grey menu-item menu-item-type-custom menu-item-object-custom menu-item-12658" data-menu-item-id="12658"><span title="LES +" class="nolink"><span>LES +</span></span></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1359" data-menu-item-id="1359"><a href="https://etna.io/formation/vae/"><span>La V.A.E</span></a></li>
+	<li class="sub-menu-title-orange menu-item menu-item-type-custom menu-item-object-custom menu-item-12659" data-menu-item-id="12659"><span title="COMMUNAUTÉ MÉTIERS" class="nolink"><span>COMMUNAUTÉ MÉTIERS</span></span></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12660" data-menu-item-id="12660"><a title="Big Data &amp; Machine Learning" href="https://etna.io/formation/specialisation-metiers/big-data-machine-learning/"><span>Big Data &#038; Machine Learning</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12661" data-menu-item-id="12661"><a href="https://etna.io/formation/specialisation-metiers/blockchain/"><span>Blockchain</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12663" data-menu-item-id="12663"><a href="https://etna.io/formation/specialisation-metiers/cyberdefense/"><span>Cyberdéfense</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12664" data-menu-item-id="12664"><a title="Cloud computing &amp; microservices" href="https://etna.io/formation/specialisation-metiers/logiciel-cloud-microservices/"><span>Cloud computing &#038; microservices</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12668" data-menu-item-id="12668"><a title="Développement d’app mobile, web et UX" href="https://etna.io/formation/specialisation-metiers/developpement-applications-web-mobile-ux/"><span>Développement d’app mobile, web et UX</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12666" data-menu-item-id="12666"><a href="https://etna.io/formation/specialisation-metiers/infrastructures-cloud/"><span>Infrastructures du cloud</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12665" data-menu-item-id="12665"><a title="Innovation &amp; entrepreneuriat" href="https://etna.io/formation/specialisation-metiers/management-innovation/"><span>Innovation &#038; entrepreneuriat</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12667" data-menu-item-id="12667"><a title="Réalité virtuelle, augmentée &amp; jeux vidéo" href="https://etna.io/formation/specialisation-metiers/realite-virtuelle-augmentee-jeux-video/"><span>Réalité virtuelle, augmentée &#038; jeux vidéo</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12662" data-menu-item-id="12662"><a title="Systèmes embarqués &amp; objets connectés" href="https://etna.io/formation/specialisation-metiers/systemes-numeriques-embarques-objets-connectes/"><span>Systèmes embarqués &#038; objets connectés</span></a></li>
+	<li class="sub-menu-item-hidden menu-item menu-item-type-custom menu-item-object-custom menu-item-12669" data-menu-item-id="12669"><span title="Lien vide" class="nolink"><span>Lien vide</span></span></li>
+	<li class="sub-menu-item-hidden menu-item menu-item-type-custom menu-item-object-custom menu-item-12670" data-menu-item-id="12670"><span title="Lien vide" class="nolink"><span>Lien vide</span></span></li>
+</ul>
+</div>
+</div></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-344" data-menu-item-id="344"><a href="https://etna.io/admission/"><span>Admission</span></a>
+<div class="header_megaMenu_submenu">
+<div class="header_megaMenu_submenu_inner">
+<ul class="sub-menu">	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12638" data-menu-item-id="12638"><a href="https://etna.io/admission/rentree-post-bac/"><span>Rentrée en 1ère année</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12639" data-menu-item-id="12639"><a href="https://etna.io/admission/rentrees/"><span>Rentrée en 2e, 3e et 4e année</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12644" data-menu-item-id="12644"><a href="https://etna.io/admission/rentree-decalee/"><span>Rentrée décalée</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12549" data-menu-item-id="12549"><a href="https://etna.io/admission/etudiants-internationaux/"><span>Étudiants internationaux</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3321" data-menu-item-id="3321"><a title="Comment candidater" href="https://etna.io/admission/candidature/"><span>Comment candidater</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-347" data-menu-item-id="347"><a href="https://etna.io/admission/prix-tarifs-cout-financement/"><span>Tarifs et rémunération</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1513" data-menu-item-id="1513"><a href="https://etna.io/admission/faq/"><span>FAQ</span></a></li>
+</ul>
+</div>
+</div></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10229" data-menu-item-id="10229"><a href="https://etna.io/alternance/"><span>Alternance</span></a>
+<div class="header_megaMenu_submenu">
+<div class="header_megaMenu_submenu_inner">
+<ul class="sub-menu">	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10235" data-menu-item-id="10235"><a href="https://etna.io/alternance/rythme/"><span>Rythme</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10233" data-menu-item-id="10233"><a href="https://etna.io/alternance/coaching-informatique-alternance/"><span>Le Code to Work</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10230" data-menu-item-id="10230"><a href="https://etna.io/alternance/accompagnement/"><span>Accompagnement</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10234" data-menu-item-id="10234"><a href="https://etna.io/entreprises/partenariats/"><span>Partenariats</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10231" data-menu-item-id="10231"><a title="Après l’ETNA" href="https://etna.io/alternance/apres-etna/"><span>Après l’ETNA</span></a></li>
+</ul>
+</div>
+</div></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10237" data-menu-item-id="10237"><a href="https://etna.io/entreprises/"><span>Entreprises</span></a>
+<div class="header_megaMenu_submenu">
+<div class="header_megaMenu_submenu_inner">
+<ul class="sub-menu">	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10238" data-menu-item-id="10238"><a title="Rythme Unique d’Alternance" href="https://etna.io/entreprises/rythme-alternance/"><span>Rythme Unique d’Alternance</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10239" data-menu-item-id="10239"><a href="https://etna.io/entreprises/recruter/"><span>Recruter un alternant</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10241" data-menu-item-id="10241"><a href="https://etna.io/entreprises/accompagnement/"><span>Accompagnement sur mesure</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10240" data-menu-item-id="10240"><a title="Intervenir à l’ETNA" href="https://etna.io/entreprises/intervenir-a-letna/"><span>Intervenir à l’ETNA</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8524" data-menu-item-id="8524"><a title="(Nouvelle fenêtre) Déposer votre offre" target="_blank" href="/cdn-cgi/l/email-protection#f08295b095849e91de999f"><span>Déposer votre offre</span></a></li>
+</ul>
+</div>
+</div></li>
+</ul>            </div>
+
+            <div class="header_megaMenu_right">
+                              <div class="header_megaMenu_eventDB">
+                  <span class="eventdb-8724"></span>    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type='text/javascript'> 
+        objTips[1] = {"slick":"","id_shortcode":"8724","total":"1","school":"5b9bcb9290c8a831489aefda","campus":["5b9a85a6e5e012a1e5ed6543"],"types":[],"labels":[],"format_date":"dddd DD MMMM YYYY","tri":"date","param_types":"[]","template":"<div class=\"eventDB\">\r\n  <div class=\"eventDB_surTitre\">Venez nous rencontrer<\/div>\r\n  <div class=\"eventDB_inner\">\r\n    <div class=\"eventDB_titre\">#TYPE#<\/div>\r\n    <div class=\"eventDB_date\">#DATE_DEBUT#<\/div>\r\n    <div class=\"eventDB_cta\">\r\n      <div class=\"wp-block-button is-style-outline medium\">\r\n        <a href=\"#URL#\" target=\"_blank\" class=\"wp-block-button__link has-text-color has-secondary-color\">S'inscrire<\/a>\r\n      <\/div>\r\n    <\/div>\r\n  <\/div>\r\n<\/div>","noevent":""};
+    </script>                </div>
+              
+                              <div class="header_megaMenu_blocCTA blocCTA">
+                                      <div class="blocCTA_titre">
+                      Je suis une entreprise                    </div>
+                                                        <div class="blocCTA_cta">
+                      <div class="wp-block-button is-style-outline medium"><a href="/cdn-cgi/l/email-protection#d3a1b693b6a7bdb2fdbabc" class="wp-block-button__link has-white-color" target="_blank">Déposez votre offre</a></div>                    </div>
+                                  </div>
+                          </div>
+
+            <div class="header_megaMenu_close">
+              <a href="#" class="js-header_megaMenu_close" data-cursor-style="cross" title="Fermer le menu"
+                aria-label="Fermer le menu">
+                <i></i>
+                Fermer
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+
+          <div class="header_ctas header_megaMenu_ctas">
+        <div class="wp-block-button"><a href="https://etna.io/ecole/documentation/" class="wp-block-button__link has-secondary-color" >Documentation</a></div><div class="wp-block-button"><a href="https://etna.io/admission/candidature/" class="wp-block-button__link has-secondary-color" >Candidature</a></div>      </div>
+    
+    <div class="fullpageSearch">
+      <div class="fullpageSearch_closeBg js-fullpageSearch_close"></div>
+      <div class="fullpageSearch_inner">
+        <a href="#" class="fullpageSearch_close js-fullpageSearch_close"><span>&times;</span> Fermer</a>
+        
+<form class="search-form" method="get" action="https://etna.io/">
+  <input type="text" class="search-field" name="s" placeholder="Rechercher…" value="">
+  <button type="submit" value="Rechercher">
+    <i class="icon-recherche"></i>
+  </button>
+</form>
+      </div>
+    </div>
+<div class="container pageContent pageContent__noPaddingTop">
+  <div class="entry-content wp-block-post-content is-layout-flow wp-block-post-content-is-layout-flow">
+  <div id="accueilHeader-block_8f460e16a66b4e91368c092bf0e302a5" class="accueilHeader alignfull">
+    <div class="accueilHeader_background"></div>
+
+    <div class="container">
+      <div class="accueilHeader_intro">
+                  <div class="accueilHeader_sur_titre">
+            Poursuivez vos études <br />
+en entreprise          </div>
+                          <h1 class="accueilHeader_titre">
+            L&rsquo;école leader de l&rsquo;alternance<br />
+en informatique depuis 21 ans          </h1>
+                
+        <div class="accueilHeader_image">
+                      <div class="accueilHeader_video_wrapper">
+              <video id="accueilHeader_video"
+                playsinline muted loop
+                data-src="https://etna.io/wp-content/uploads/2023/01/video-etna-cropped.mp4"
+                                  poster="https://etna.io/wp-content/uploads/2023/01/video-etna-poster.jpg"
+                              >
+              </video>
+              <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
+                function initVideo() {
+                  let videoEl = document.getElementById('accueilHeader_video');
+                  let src = videoEl.dataset.src;
+                  if (videoEl.src !== src) {
+                    videoEl.src = src;
+                    videoEl.classList.add('show');
+                    videoEl.play();
+                  }
+                }
+
+                initVideo();
+              </script>
+            </div>
+                  </div>
+
+                  <div class="accueilHeader_cta">
+            <div class="wp-block-button is-style-starter-fill-arrow"><a href="https://etna.io/formation/parcours-vue-ensemble/" class="wp-block-button__link has-white-color has-text-color" >Découvrez nos formations</a></div>          </div>
+        
+                  <div class="accueilHeader_JPO">
+            <a href="/agenda" class="accueilHeader_JPO_link">
+              <div class="accueilHeader_JPO_link_content">
+                <div class="accueilHeader_JPO_titre">Venez nous rencontrer</div>
+                <span class="eventdb-9670"></span>    <script type='text/javascript'> 
+        objTips[0] = {"slick":"","id_shortcode":"9670","total":"3","school":"5b9bcb9290c8a831489aefda","campus":["5b9a85a6e5e012a1e5ed6543"],"types":["5b9fcacdc2e4315bd836890d","5e96e2e3c6b12aa35faa2e6b"],"labels":["5d7f838ab81fd9cffeb7d4ad","65085d564c7a494a67956660"],"format_date":"dddd DD MMMM YYYY","tri":"date","param_types":"[{\"id\":\"5b9fcacdc2e4315bd836890d\",\"typeLimit\":\"campus\"},{\"id\":\"5e96e2e3c6b12aa35faa2e6b\",\"typeLimit\":\"campus\"}]","template":"<div class=\"accueilHeader_JPO_event\">\r\n  <span class=\"accueilHeader_JPO_event_type\">#LABEL#<\/span>\r\n  <span class=\"accueilHeader_JPO_event_date\">#DATE_DEBUT#<\/span>\r\n<\/div>","noevent":""};
+    </script>              </div>
+              <div class="accueilHeader_JPO_link_fleche"></div>
+            </a>
+            
+          </div>
+        
+      </div>
+
+          </div>
+  </div>
+
+
+
+
+
+  <div id="bandeauAnnonce-block_d5ed1aeb7733aaad64ea1c9f86280f83" class="bandeauAnnonce">
+          <div class="bandeauAnnonce_titre">
+        Prochaines rentrées      </div>
+    
+          <div class="bandeauAnnonce_annonces">
+                  <div class="bandeauAnnonce_item">
+                          <span class="bandeauAnnonce_item_titre">
+                ANNÉE 1              </span>
+            
+                          <span class="bandeauAnnonce_item_date">
+                15 septembre 2025              </span>
+                      </div>
+                  <div class="bandeauAnnonce_item">
+                          <span class="bandeauAnnonce_item_titre">
+                 <br>ANNÉES 2, 3 &#038; MSC (rentrée classique) :              </span>
+            
+                          <span class="bandeauAnnonce_item_date">
+                6 octobre 2025              </span>
+                      </div>
+              </div>
+      </div>
+
+
+
+<div class="wp-block-cover alignfull is-style-starter-habillage-etna"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img fetchpriority="high" decoding="async" width="2880" height="1485" class="wp-block-cover__image-background wp-image-8863" alt="" src="https://etna.io/wp-content/uploads/2023/01/texture-arriere-plan-1.jpg" data-object-fit="cover" srcset="https://etna.io/wp-content/uploads/2023/01/texture-arriere-plan-1.jpg 2880w, https://etna.io/wp-content/uploads/2023/01/texture-arriere-plan-1-1536x792.jpg 1536w, https://etna.io/wp-content/uploads/2023/01/texture-arriere-plan-1-2048x1056.jpg 2048w" sizes="(max-width: 2880px) 100vw, 2880px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<h2 class="wp-block-heading" id="h-chiffres-cles">Chiffres clés</h2>
+
+
+
+  <div id="chiffres-cles-block_bb515f7e9b115f15cd3657a4b7f4c441" class="chiffresCles chiffresCles__icones chiffresCles__sliderMobile">
+          <div class="swiper js-swiper_chiffresCles">
+        <div class="swiper-wrapper">
+    
+                  <div class="swiper-slide">
+      
+      <div class="chiffresCles_item chiffresCles_item__hasIcone">
+        
+                    <div class="chiffresCles_item_icone">
+              <img decoding="async" src="https://etna.io/wp-content/uploads/2023/01/icone-diplomes.svg" 
+                   alt="icône diplômés" 
+                   width="87" 
+                   height="112">
+            </div>
+        
+                  <div class="chiffresCles_item_chiffre">
+            86.2
+                          <span class="chiffresCles_item_unite">
+                %              </span>
+                      </div>            
+                
+                  <div class="chiffresCles_item_texte chiffresCles_item_texte__apres">
+            des diplômés embauchés à la sortie          </div>
+              </div>
+
+              </div>
+                        <div class="swiper-slide">
+      
+      <div class="chiffresCles_item chiffresCles_item__hasIcone">
+        
+                    <div class="chiffresCles_item_icone">
+              <img decoding="async" src="https://etna.io/wp-content/uploads/2023/01/icone-salaire.svg" 
+                   alt="icône salaire" 
+                   width="109" 
+                   height="111">
+            </div>
+        
+                  <div class="chiffresCles_item_chiffre">
+            42994
+                          <span class="chiffresCles_item_unite">
+                €              </span>
+                      </div>            
+                
+                  <div class="chiffresCles_item_texte chiffresCles_item_texte__apres">
+            le salaire moyen à la sortie          </div>
+              </div>
+
+              </div>
+                        <div class="swiper-slide">
+      
+      <div class="chiffresCles_item chiffresCles_item__hasIcone">
+        
+                    <div class="chiffresCles_item_icone">
+              <img decoding="async" src="https://etna.io/wp-content/uploads/2023/01/icone-temps-entreprise.svg" 
+                   alt="icône temps en entreprise" 
+                   width="109" 
+                   height="109">
+            </div>
+        
+                  <div class="chiffresCles_item_chiffre">
+            96
+                          <span class="chiffresCles_item_unite">
+                %              </span>
+                      </div>            
+                
+                  <div class="chiffresCles_item_texte chiffresCles_item_texte__apres">
+            du temps en entreprise          </div>
+              </div>
+
+              </div>
+                        <div class="swiper-slide">
+      
+      <div class="chiffresCles_item chiffresCles_item__hasIcone">
+        
+                    <div class="chiffresCles_item_icone">
+              <img decoding="async" src="https://etna.io/wp-content/uploads/2023/01/icone-projets.svg" 
+                   alt="icône projets" 
+                   width="97" 
+                   height="104">
+            </div>
+        
+                  <div class="chiffresCles_item_chiffre">
+            250
+                      </div>            
+                
+                  <div class="chiffresCles_item_texte chiffresCles_item_texte__apres">
+            projets réalisés en 4 ans          </div>
+              </div>
+
+              </div>
+                        <div class="swiper-slide">
+      
+      <div class="chiffresCles_item chiffresCles_item__hasIcone">
+        
+                    <div class="chiffresCles_item_icone">
+              <img decoding="async" src="https://etna.io/wp-content/uploads/2023/01/icone-ingenieries.svg" 
+                   alt="icône ingénieries" 
+                   width="107" 
+                   height="69">
+            </div>
+        
+                  <div class="chiffresCles_item_chiffre">
+            9
+                      </div>            
+                
+                  <div class="chiffresCles_item_texte chiffresCles_item_texte__apres">
+            communautés métiers          </div>
+              </div>
+
+              </div>
+          
+            </div>
+                  <div class="swiper-nav swiper-nav__secondary">
+            <div class="swiper-button-prev"><span></span></div>
+            <div class="swiper-pagination"></div>
+            <div class="swiper-button-next"><span></span></div>
+          </div>
+              </div>
+      </div>
+
+</div></div>
+
+
+
+<div id="points-forts-block_a11056fbdfe0f866bb31aa466ffc2cd3" class="pointsForts">
+  <div class="container container__noPadding container__medium pointsForts_container">
+          <h2>
+        Les points forts de l&rsquo;ETNA      </h2>
+    
+          <div class="pointsForts_intro_mobile has-text-align-center">
+        Plus de 1500 développeurs et <br />
+administrateurs systèmes diplômés      </div>
+    
+    <div class="pointsForts_content">
+      <ul>
+                            <li>
+                            <a href="https://etna.io/alternance/rythme/" class="pointsForts_item">
+              
+                              <picture>
+                  <img decoding="async" src="https://etna.io/wp-content/uploads/2023/01/video-etna-poster-270x270.jpg" 
+                       srcset="https://etna.io/wp-content/uploads/2023/01/video-etna-poster-540x540.jpg 2x" 
+                       alt="mains sur un clavier d'ordinateur"
+                       loading="lazy">
+                </picture>
+              
+              <span class="pointsForts_item_inner">
+                                  <span class="pointsForts_item_titre">
+                    Le rythme d&rsquo;alternance                  </span>
+                                
+                <span class="pointsForts_item_icon"></span>
+              </span>
+
+                          </a>
+                      </li>
+                    <li>
+                            <a href="https://etna.io/ecole/6-raisons-de-choisir-letna/#pedagogie-par-projet" class="pointsForts_item">
+              
+                              <picture>
+                  <img decoding="async" src="https://etna.io/wp-content/uploads/2023/01/formation-architecte-logiciel.jpg" 
+                       srcset="https://etna.io/wp-content/uploads/2023/01/formation-architecte-logiciel.jpg 2x" 
+                       alt="Etudiants en groupe devant leurs ordinateurs"
+                       loading="lazy">
+                </picture>
+              
+              <span class="pointsForts_item_inner">
+                                  <span class="pointsForts_item_titre">
+                    La pédagogie par projet                  </span>
+                                
+                <span class="pointsForts_item_icon"></span>
+              </span>
+
+                          </a>
+                      </li>
+          
+                      <li class="texte_centre">
+              Plus de 1500 développeurs et <br />
+administrateurs systèmes diplômés            </li>
+          
+                    <li>
+                            <a href="https://etna.io/ecole/6-raisons-de-choisir-letna/#piscine" class="pointsForts_item">
+              
+                              <picture>
+                  <img decoding="async" src="https://etna.io/wp-content/uploads/2023/01/formation-bachelor-concepteutrice-projets-si.jpg" 
+                       srcset="https://etna.io/wp-content/uploads/2023/01/formation-bachelor-concepteutrice-projets-si.jpg 2x" 
+                       alt="deux étudiants se parlent"
+                       loading="lazy">
+                </picture>
+              
+              <span class="pointsForts_item_inner">
+                                  <span class="pointsForts_item_titre">
+                    La piscine                  </span>
+                                
+                <span class="pointsForts_item_icon"></span>
+              </span>
+
+                          </a>
+                      </li>
+                    <li>
+                            <a href="https://etna.io/ecole/6-raisons-de-choisir-letna/#code-camps" class="pointsForts_item">
+              
+                              <picture>
+                  <img decoding="async" src="https://etna.io/wp-content/uploads/2023/01/formation-cursus-preparatoire.jpg" 
+                       srcset="https://etna.io/wp-content/uploads/2023/01/formation-cursus-preparatoire.jpg 2x" 
+                       alt="cursus préparatoire ETNA"
+                       loading="lazy">
+                </picture>
+              
+              <span class="pointsForts_item_inner">
+                                  <span class="pointsForts_item_titre">
+                    Les code camps                  </span>
+                                
+                <span class="pointsForts_item_icon"></span>
+              </span>
+
+                          </a>
+                      </li>
+              </ul>
+    </div>
+
+  </div>
+  
+  <div class="pointsForts_image_gauche">
+    <picture>
+      <source media="(min-width: 1700px)"  
+              srcset="https://etna.io/wp-content/themes/etna-refonte-theme/assets/images/fond-points-forts.jpg, https://etna.io/wp-content/themes/etna-refonte-theme/assets/images/fond-points-forts@2x.jpg 2x"
+              width="436"
+              height="818">
+      <source media="(max-width: 1699px)"  
+              srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7, data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 2x"
+              width="1" 
+              height="1">
+      <img decoding="async" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="1" height="1" alt="">
+    </picture>
+  </div>
+</div>
+
+
+
+
+<div class="wp-block-cover alignfull"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img decoding="async" width="2880" height="1262" class="wp-block-cover__image-background wp-image-8902" alt="" src="https://etna.io/wp-content/uploads/2023/01/texture-arriere-plan-2.jpg" data-object-fit="cover" srcset="https://etna.io/wp-content/uploads/2023/01/texture-arriere-plan-2.jpg 2880w, https://etna.io/wp-content/uploads/2023/01/texture-arriere-plan-2-1536x673.jpg 1536w, https://etna.io/wp-content/uploads/2023/01/texture-arriere-plan-2-2048x897.jpg 2048w" sizes="(max-width: 2880px) 100vw, 2880px" /><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-1 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:33.33%">
+<h2 class="wp-block-heading" id="h-9-communautes-metiers">9 communautés<br>métiers</h2>
+
+
+
+<p>En prise directe avec la demande du marché, les formations de l’ETNA ont une empreinte professionnelle forte, et ce dès la première année. Au cours du <strong>Master of Science</strong>, l’ETNA propose à ses étudiants de compléter leur formation avec une de ses neuf communautés métiers afin de participer à une intelligence collective et de développer son réseau professionnel.</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:66.66%">
+  <div id="liens-icones-block_1d916645df7f5d6968cc9191ff8b2c67" class="liensIcones">
+    <div class="swiper js-swiper_liensIcones">
+      <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+              <a href="https://etna.io/formation/specialisations-metiers/big-data-machine-learning/" 
+                 class="liensIcones_lien"
+                               >
+                                  <img decoding="async" src="https://etna.io/wp-content/uploads/2023/01/icone-big-data-machine-learning.svg"
+                       width="80"
+                       height="51"
+                       loading="lazy"
+                       alt="">
+                
+                <span class="liensIcones_lien_titre">
+                  Big data &amp; machine learning                  <i class="icon-arrow-right"></i>
+                </span>
+              </a>
+            </div>
+                      <div class="swiper-slide">
+              <a href="https://etna.io/formation/specialisations-metiers/blockchain/" 
+                 class="liensIcones_lien"
+                               >
+                                  <img decoding="async" src="https://etna.io/wp-content/uploads/2023/01/icone-blockchain.svg"
+                       width="51"
+                       height="51"
+                       loading="lazy"
+                       alt="">
+                
+                <span class="liensIcones_lien_titre">
+                  Blockchain                  <i class="icon-arrow-right"></i>
+                </span>
+              </a>
+            </div>
+                      <div class="swiper-slide">
+              <a href="https://etna.io/formation/specialisations-metiers/systemes-numeriques-embarques-objets-connectes/" 
+                 class="liensIcones_lien"
+                               >
+                                  <img decoding="async" src="https://etna.io/wp-content/uploads/2023/01/icone-systemes-embarques.svg"
+                       width="50"
+                       height="50"
+                       loading="lazy"
+                       alt="">
+                
+                <span class="liensIcones_lien_titre">
+                  Systèmes embarqués &amp; objets connectés                  <i class="icon-arrow-right"></i>
+                </span>
+              </a>
+            </div>
+                      <div class="swiper-slide">
+              <a href="https://etna.io/formation/specialisations-metiers/cyberdefense/" 
+                 class="liensIcones_lien"
+                               >
+                                  <img decoding="async" src="https://etna.io/wp-content/uploads/2023/01/icone-cyberdefense.svg"
+                       width="58"
+                       height="51"
+                       loading="lazy"
+                       alt="">
+                
+                <span class="liensIcones_lien_titre">
+                  Cyberdéfense                  <i class="icon-arrow-right"></i>
+                </span>
+              </a>
+            </div>
+                      <div class="swiper-slide">
+              <a href="https://etna.io/formation/specialisations-metiers/logiciel-cloud-microservices/" 
+                 class="liensIcones_lien"
+                               >
+                                  <img decoding="async" src="https://etna.io/wp-content/uploads/2023/01/icone-cloud-computing.svg"
+                       width="50"
+                       height="50"
+                       loading="lazy"
+                       alt="">
+                
+                <span class="liensIcones_lien_titre">
+                  Cloud computing &amp; microservices                  <i class="icon-arrow-right"></i>
+                </span>
+              </a>
+            </div>
+                      <div class="swiper-slide">
+              <a href="https://etna.io/formation/specialisations-metiers/management-innovation/" 
+                 class="liensIcones_lien"
+                               >
+                                  <img decoding="async" src="https://etna.io/wp-content/uploads/2023/01/icone-innovation-entrepreneuriat.svg"
+                       width="59"
+                       height="51"
+                       loading="lazy"
+                       alt="">
+                
+                <span class="liensIcones_lien_titre">
+                  Innovation &amp; entrepreneuriat                  <i class="icon-arrow-right"></i>
+                </span>
+              </a>
+            </div>
+                      <div class="swiper-slide">
+              <a href="https://etna.io/formation/specialisations-metiers/infrastructures-cloud/" 
+                 class="liensIcones_lien"
+                               >
+                                  <img decoding="async" src="https://etna.io/wp-content/uploads/2023/01/icone-infrastructure-cloud.svg"
+                       width="52"
+                       height="51"
+                       loading="lazy"
+                       alt="">
+                
+                <span class="liensIcones_lien_titre">
+                  Infrastructures du cloud                  <i class="icon-arrow-right"></i>
+                </span>
+              </a>
+            </div>
+                      <div class="swiper-slide">
+              <a href="https://etna.io/formation/specialisations-metiers/realite-virtuelle-augmentee-jeux-video/" 
+                 class="liensIcones_lien"
+                               >
+                                  <img decoding="async" src="https://etna.io/wp-content/uploads/2023/01/icone-realite-virtuelle.svg"
+                       width="51"
+                       height="51"
+                       loading="lazy"
+                       alt="">
+                
+                <span class="liensIcones_lien_titre">
+                  Réalité virtuelle, augmentée &amp; jeux vidéo                  <i class="icon-arrow-right"></i>
+                </span>
+              </a>
+            </div>
+                      <div class="swiper-slide">
+              <a href="https://etna.io/formation/specialisations-metiers/developpement-applications-web-mobile-ux/" 
+                 class="liensIcones_lien"
+                               >
+                                  <img decoding="async" src="https://etna.io/wp-content/uploads/2023/01/icone-dev-app-web-ux.svg"
+                       width="51"
+                       height="50"
+                       loading="lazy"
+                       alt="">
+                
+                <span class="liensIcones_lien_titre">
+                  Développement d&rsquo;app mobile, web et UX                  <i class="icon-arrow-right"></i>
+                </span>
+              </a>
+            </div>
+                </div>
+
+      <div class="swiper-nav">
+        <div class="swiper-pagination"></div>
+      </div>
+      <div class="swiper-prev-next">
+        <div class="swiper-button-prev"><span></span></div>
+        <div class="swiper-button-next"><span></span></div>
+      </div>
+    </div>
+  </div>
+
+</div>
+</div>
+</div></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-2 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:20%">
+<h2 class="wp-block-heading">En ce moment <br>à l&rsquo;ETNA</h2>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:80%">
+  <div id="actualites-block_3fa4d9cc6266f821fa654f3f8c8cab69" class="actualites">
+    <div class="swiper js-swiper_actualites">
+      <div class="swiper-wrapper">
+                  <div class="swiper-slide">
+            
+<article id="post-12910" class="article post-12910 post type-post status-publish format-standard has-post-thumbnail hentry category-ecole">
+  <div class="article_thumbnail">
+          <a href="https://etna.io/2025/08/comment-decrocher-une-alternance-en-plein-ete/">
+        <img decoding="async" src="https://etna.io/wp-content/uploads/IMG_8766-copy-400x260.jpg" 
+             srcset="https://etna.io/wp-content/uploads/IMG_8766-copy-800x520.jpg 2x"
+             width="400"
+             height="260"
+             loading="lazy"
+             alt="Comment décrocher une alternance en plein été&nbsp;?"  />      
+      </a>
+    
+    <div class="article_date">
+      20/08/2025    </div>
+  </div>
+
+  <div class="article_content">
+    <h3 class="article_title">
+      <a href="https://etna.io/2025/08/comment-decrocher-une-alternance-en-plein-ete/">
+        Comment décrocher une alternance en plein été&nbsp;?      </a>
+    </h3>
+
+    <div class="article_description">
+      <p>Tu recherches une alternance mais on est déjà au mois d’Août ? Pas de panique : il est encore temps pour toi de trouver.  Même en plein été, les recrutements ne s&rsquo;arrêtent pas ! La clé ? Être dynamique, rigoureux et stratégique.  1. Profite que l’été soit plus calme pour te faire remarquer Pendant que tout&#8230;</p>
+    </div>
+
+    <div class="article_footer">
+      <a class="article_btn readMore" href="https://etna.io/2025/08/comment-decrocher-une-alternance-en-plein-ete/">
+        <span class="readMore_titre">Lire la suite</span>
+        <span class="readMore_fleche"></span>
+      </a>
+    </div>
+  </div>  
+</article>
+          </div>
+                  <div class="swiper-slide">
+            
+<article id="post-12800" class="article post-12800 post type-post status-publish format-standard has-post-thumbnail hentry category-ecole category-les-metiers-et-secteurs">
+  <div class="article_thumbnail">
+          <a href="https://etna.io/2025/02/cap-sur-montreal-temoignages-dalumni-partis-etudier-a-letranger/">
+        <picture decoding="async" loading="lazy">
+<source type="image/webp" srcset="https://etna.io/wp-content/uploads/Drapeau-Canadien-ETNA.jpg.webp 2x"/>
+<img decoding="async" src="https://etna.io/wp-content/uploads/Drapeau-Canadien-ETNA-400x260.jpg" srcset="https://etna.io/wp-content/uploads/Drapeau-Canadien-ETNA.jpg 2x" width="400" height="260" loading="lazy" alt="Cap sur Montréal&nbsp;: témoignages d&rsquo;alumni partis étudier à l&rsquo;étranger"/>
+</picture>
+      
+      </a>
+    
+    <div class="article_date">
+      14/02/2025    </div>
+  </div>
+
+  <div class="article_content">
+    <h3 class="article_title">
+      <a href="https://etna.io/2025/02/cap-sur-montreal-temoignages-dalumni-partis-etudier-a-letranger/">
+        Cap sur Montréal&nbsp;: témoignages d&rsquo;alumni partis étudier à l&rsquo;étranger      </a>
+    </h3>
+
+    <div class="article_description">
+      <p>C&rsquo;est le rêve de nombreux jeunes diplômés : intégrer l&rsquo;univers des jeux vidéo. João Paulo, lui l&rsquo;a fait. Et pas n&rsquo;importe où : à Montréal, au Canada. Il nous raconte.</p>
+    </div>
+
+    <div class="article_footer">
+      <a class="article_btn readMore" href="https://etna.io/2025/02/cap-sur-montreal-temoignages-dalumni-partis-etudier-a-letranger/">
+        <span class="readMore_titre">Lire la suite</span>
+        <span class="readMore_fleche"></span>
+      </a>
+    </div>
+  </div>  
+</article>
+          </div>
+                  <div class="swiper-slide">
+            
+<article id="post-12795" class="article post-12795 post type-post status-publish format-standard has-post-thumbnail hentry category-ecole">
+  <div class="article_thumbnail">
+          <a href="https://etna.io/2025/02/direction-tokyo-temoignages-dalumni-partis-travailler-a-letranger/">
+        <picture decoding="async" loading="lazy">
+<source type="image/webp" srcset="https://etna.io/wp-content/uploads/Vue-de-Tokyo-ETNA-800x520.jpg.webp 2x"/>
+<img decoding="async" src="https://etna.io/wp-content/uploads/Vue-de-Tokyo-ETNA-400x260.jpg" srcset="https://etna.io/wp-content/uploads/Vue-de-Tokyo-ETNA-800x520.jpg 2x" width="400" height="260" loading="lazy" alt="Direction Tokyo&nbsp;: témoignages d&rsquo;alumni partis travailler à l&rsquo;étranger"/>
+</picture>
+      
+      </a>
+    
+    <div class="article_date">
+          </div>
+  </div>
+
+  <div class="article_content">
+    <h3 class="article_title">
+      <a href="https://etna.io/2025/02/direction-tokyo-temoignages-dalumni-partis-travailler-a-letranger/">
+        Direction Tokyo&nbsp;: témoignages d&rsquo;alumni partis travailler à l&rsquo;étranger      </a>
+    </h3>
+
+    <div class="article_description">
+      <p>Aujourd&rsquo;hui, nous traversons le globe pour rejoindre Pierre et Alexandre. Issus de la promo 2014, ils ont tous les deux quitté la France, direction le Japon.</p>
+    </div>
+
+    <div class="article_footer">
+      <a class="article_btn readMore" href="https://etna.io/2025/02/direction-tokyo-temoignages-dalumni-partis-travailler-a-letranger/">
+        <span class="readMore_titre">Lire la suite</span>
+        <span class="readMore_fleche"></span>
+      </a>
+    </div>
+  </div>  
+</article>
+          </div>
+              </div>
+      <div class="swiper-nav">
+        <div class="swiper-pagination"></div>
+      </div>
+    </div>
+  </div>
+  
+
+
+
+<div class="wp-block-buttons is-content-justification-right is-layout-flex wp-container-core-buttons-is-layout-1 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button is-style-outline is-style-outline--1"><a class="wp-block-button__link has-secondary-color has-text-color wp-element-button" href="https://etna.io/blog/">Toute l&rsquo;actualité</a></div>
+</div>
+</div>
+</div>
+</div></div>
+
+
+          <div class="prefooter">
+        <picture>
+          <source media="(min-width: 600px)"  
+                  srcset="https://etna.io/wp-content/themes/etna-refonte-theme/assets/images/prefooter-desktop.jpg, https://etna.io/wp-content/themes/etna-refonte-theme/assets/images/prefooter-desktop@2x.jpg 2x"
+                  width="1920"
+                  height="199">
+          <source media="(max-width: 599px)"  
+                  srcset="https://etna.io/wp-content/themes/etna-refonte-theme/assets/images/prefooter-mobile.jpg, https://etna.io/wp-content/themes/etna-refonte-theme/assets/images/prefooter-mobile@2x.jpg 2x"
+                  width="599" 
+                  height="379">
+          <img src="https://etna.io/wp-content/themes/etna-refonte-theme/assets/images/prefooter-desktop.jpg" srcset="https://etna.io/wp-content/themes/etna-refonte-theme/assets/images/prefooter-desktop@2x.jpg 2x" width="1920" height="199" alt="" class="prefooter_background">
+        </picture>
+
+        <div class="container">
+                      <div class="prefooter_texte">
+              Allons plus loin :            </div>
+          <div class="wp-block-button"><a href="https://etna.io/ecole/contact/" class="wp-block-button__link has-text-color has-white-color" >Contact et accès</a></div><div class="wp-block-button"><a href="https://etna.io/entreprises/un-futur-salarie-a-embaucher/" class="wp-block-button__link has-text-color has-white-color" >Je suis une entreprise</a></div>        </div>
+      </div>
+    
+    <footer class="footer">
+      <div class="footer_top">
+        <div class="container">
+          
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-5 wp-block-columns-is-layout-flex">
+<div class="wp-block-column footer_left is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:55%">
+<div class="wp-block-columns footer_left_top is-layout-flex wp-container-core-columns-is-layout-3 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h6 class="wp-block-heading" id="h-a-propos">À propos</h6>
+
+
+
+<p>L’ETNA, École des Technologies Numériques Avancées, délivre une formation en alternance spécialisée en informatique qui débouche sur 3 niveaux de diplômes : Bac+2, Bac+3 et Bac+5. « L’excellence de l’alternance » de l’ETNA, c’est une insertion directe dans l’entreprise, un encadrement efficace et un suivi personnalisé qui vous conduiront à des fonctions de cadre et d’ingénieur en informatique. La formation est prise en charge par l’entreprise dès la 2e année et l’étudiant est indemnisé d’un contrat de professionnalisation, d’un contrat d’apprentissage, d’un CDD ou d’un CDI.</p>
+
+
+
+<p class="is-style-default has-medium-font-size"><mark style="background-color:#FFF" class="has-inline-color has-primary-color"><strong>&nbsp;&nbsp;&nbsp;&nbsp;École hors parcoursup&nbsp;&nbsp;&nbsp;&nbsp;</strong></mark></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+  <div id="eventDB-block_77c0fb00beaa4962c75de303db927d77" class="eventDB_wrapper">
+    <span class="eventdb-8724"></span>    <script type='text/javascript'> 
+        objTips[2] = {"slick":"","id_shortcode":"8724","total":"1","school":"5b9bcb9290c8a831489aefda","campus":["5b9a85a6e5e012a1e5ed6543"],"types":[],"labels":[],"format_date":"dddd DD MMMM YYYY","tri":"date","param_types":"[]","template":"<div class=\"eventDB\">\r\n  <div class=\"eventDB_surTitre\">Venez nous rencontrer<\/div>\r\n  <div class=\"eventDB_inner\">\r\n    <div class=\"eventDB_titre\">#TYPE#<\/div>\r\n    <div class=\"eventDB_date\">#DATE_DEBUT#<\/div>\r\n    <div class=\"eventDB_cta\">\r\n      <div class=\"wp-block-button is-style-outline medium\">\r\n        <a href=\"#URL#\" target=\"_blank\" class=\"wp-block-button__link has-text-color has-secondary-color\">S'inscrire<\/a>\r\n      <\/div>\r\n    <\/div>\r\n  <\/div>\r\n<\/div>","noevent":""};
+    </script>  </div>
+  
+
+
+
+<div style="height:1rem" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+<nav class="items-justified-center socialMenu wp-block-navigation is-content-justification-center is-layout-flex wp-container-core-navigation-is-layout-1 wp-block-navigation-is-layout-flex" aria-label="Réseaux sociaux"><ul class="wp-block-navigation__container items-justified-center socialMenu wp-block-navigation"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://www.facebook.com/ecole.etna/" target="_blank"  ><span class="wp-block-navigation-item__label">Facebook</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://twitter.com/etna_io" target="_blank"  ><span class="wp-block-navigation-item__label">Twitter</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://www.youtube.com/@ETNA_io" target="_blank"  ><span class="wp-block-navigation-item__label">YouTube</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://www.linkedin.com/school/etna-%C3%A9cole-d&#039;alternance-en-informatique/" target="_blank"  ><span class="wp-block-navigation-item__label">Linkedin</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://www.instagram.com/etna.io/" target="_blank"  ><span class="wp-block-navigation-item__label">Instagram</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://www.tiktok.com/@etna.io" target="_blank"  ><span class="wp-block-navigation-item__label">TikTok</span></a></li></ul></nav></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column footer_right is-layout-flow wp-block-column-is-layout-flow">
+<div class="wp-block-columns footer_right_top is-layout-flex wp-container-core-columns-is-layout-4 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h6 class="wp-block-heading" id="h-nous-contacter">Nous contacter</h6>
+
+
+
+<p>Tel : 01 44 08 00 23<br>Email : <a rel="noreferrer noopener" href="/cdn-cgi/l/email-protection#abcacfc6c2d8d8c2c4c5d8ebcedfc5ca85c2c4" target="_blank"><span class="__cf_email__" data-cfemail="7617121b1f05051f1918053613021817581f19">[email&#160;protected]</span></a></p>
+
+
+
+<div class="wp-block-buttons is-vertical is-content-justification-left is-layout-flex wp-container-core-buttons-is-layout-2 wp-block-buttons-is-layout-flex">
+<div class="wp-block-button small"><a class="wp-block-button__link has-secondary-color has-text-color wp-element-button" href="/admission/candidature/"><strong>Espace candidats</strong></a></div>
+
+
+
+<div class="wp-block-button small"><a class="wp-block-button__link has-secondary-color has-text-color wp-element-button" href="/entreprise/recruter-etudiant/"><strong>Espace Entreprises</strong></a></div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<h6 class="wp-block-heading" id="h-infos-pratiques">Infos pratiques</h6>
+
+
+<nav class="is-vertical is-style-starter-navigation-arrow-list wp-block-navigation is-layout-flex wp-container-core-navigation-is-layout-2 wp-block-navigation-is-layout-flex" aria-label="Pied de page - infos pratiques"><ul class="wp-block-navigation__container  is-vertical is-style-starter-navigation-arrow-list wp-block-navigation"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://etna.io/admission/faq/"><span class="wp-block-navigation-item__label">FAQ</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://etna.io/ecole/contact/"><span class="wp-block-navigation-item__label">Contact et accès</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://newsroom.ionis-group.com/etna/" target="_blank"  ><span class="wp-block-navigation-item__label">Newsroom</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://careers.werecruit.io/fr/ionis-group?etablissementsList=11209d67-467f-4ae8-8d90-5274851d8f27" target="_blank"  ><span class="wp-block-navigation-item__label">Recrutement</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://newsroom.ionis-group.com/revue-de-presse/revue-de-presse-ecole-etna/"><span class="wp-block-navigation-item__label">Revue de presse</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://etna.io/plan-du-site/"><span class="wp-block-navigation-item__label">Plan du site</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://etna.io/mentions-legales/"><span class="wp-block-navigation-item__label">Mentions légales</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="#cookies"><span class="wp-block-navigation-item__label">Politique de cookies</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://etna.io/conditions-generales-de-vente/"><span class="wp-block-navigation-item__label">C.G.V.</span></a></li></ul></nav></div>
+</div>
+</div>
+</div>
+
+
+
+<div style="height:2rem" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-7 wp-block-columns-is-layout-flex">
+<div class="wp-block-column footer_left is-layout-flow wp-block-column-is-layout-flow" style="flex-basis:55%">
+<div class="wp-block-columns footer_left_bottom is-layout-flex wp-container-core-columns-is-layout-6 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full"><picture class="wp-image-11016">
+<source type="image/webp" srcset="https://etna.io/wp-content/uploads/2023/06/qualiopi.png.webp"/>
+<img src="https://etna.io/wp-content/uploads/2023/06/qualiopi.png" alt="Qualiopi"/>
+</picture>
+</figure>
+
+
+
+<p class="has-small-font-size">L’ETNA est certifiée Qualiopi. La certification qualité a été délivrée au titre des catégories d’actions suivantes : actions de formation, actions de formation par apprentissage, validation des acquis de l’expérience. <br><a href="https://etna.io/wp-content/uploads/Qualiopi-2025.pdf" data-type="link" data-id="https://etna.io/wp-content/uploads/2023/09/Certificat-Qualiopi-ETNA.pdf" target="_blank" rel="noreferrer noopener">Télécharger le certificat</a></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full"><picture class="wp-image-11017">
+<source type="image/webp" srcset="https://etna.io/wp-content/uploads/2023/06/Datadock.png.webp"/>
+<img src="https://etna.io/wp-content/uploads/2023/06/Datadock.png" alt="logo Datadock"/>
+</picture>
+</figure>
+
+
+
+<p class="has-small-font-size">L’ETNA est référencée sur Datadock.</p>
+</div>
+</div>
+</div>
+
+
+
+<div class="wp-block-column footer_right is-layout-flow wp-block-column-is-layout-flow">
+<hr class="wp-block-separator has-alpha-channel-opacity is-style-wide"/>
+
+
+<nav class="items-justified-left is-vertical is-style-starter-navigation-square-list wp-block-navigation is-content-justification-left is-layout-flex wp-container-core-navigation-is-layout-3 wp-block-navigation-is-layout-flex" aria-label="Navigation"><ul class="wp-block-navigation__container items-justified-left is-vertical is-style-starter-navigation-square-list wp-block-navigation"><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://etna.io/formation/cycle-tronc-commun/"><span class="wp-block-navigation-item__label">Tronc commun: Années 1&amp;2</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://etna.io/admission/rentrees/"><span class="wp-block-navigation-item__label">Différentes rentrées</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://etna.io/formation/cycle-bachelor3/"><span class="wp-block-navigation-item__label">Second cycle: choix de la spécialisation</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://etna.io/admission/candidature/"><span class="wp-block-navigation-item__label">Conditions d’admission</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://etna.io/formation/master-of-science-1-2-developpeur-dapplication-et-architecte-logiciel/"><span class="wp-block-navigation-item__label">Spécialisation Développement: MSc 1&amp;2</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://etna.io/admission/prix-tarifs-cout-financement/"><span class="wp-block-navigation-item__label">Tarifs et rémunération</span></a></li><li class=" wp-block-navigation-item wp-block-navigation-link"><a class="wp-block-navigation-item__content"  href="https://etna.io/formation/master-of-science-1-2-architecte-ingenierie-systeme-reseau/"><span class="wp-block-navigation-item__label">Spécialisation Système Réseau: MSc 1&amp;2</span></a></li></ul></nav></div>
+</div>
+          <div>Page mise à jour le 30 septembre 2025</div>
+        </div>
+      </div>
+
+            <div class="footer_ecoles">
+        <div class="container">
+                      <div class="footer_ecoles_top">
+              <p>Organisme de formation enregistré sous le numéro 11 94 08331 94 &#8211; Cette école est membre de IONIS Education Group comme :</p>
+            </div>
+          
+          <div class="footer_ecoles_ecoles"></div>
+
+                  </div>
+      </div>
+    </footer>
+  </div><!-- .layout-container -->
+
+  <a href="#top" class="backToTop js-backToTop">Retour en haut de page</a>
+
+  <style id='wp-block-spacer-inline-css'>
+.wp-block-spacer{clear:both}
+</style>
+<style id='wp-block-navigation-link-inline-css'>
+.wp-block-navigation .wp-block-navigation-item__label{overflow-wrap:break-word}.wp-block-navigation .wp-block-navigation-item__description{display:none}.link-ui-tools{border-top:1px solid #f0f0f0;padding:8px}.link-ui-block-inserter{padding-top:8px}.link-ui-block-inserter__back{margin-left:8px;text-transform:uppercase}
+</style>
+<link rel='stylesheet' id='wp-block-navigation-css' href='https://etna.io/wp-includes/blocks/navigation/style.min.css?ver=6.7.1' media='all' />
+<style id='wp-block-image-inline-css'>
+.wp-block-image a{display:inline-block}.wp-block-image img{box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom}@media (prefers-reduced-motion:no-preference){.wp-block-image img.hide{visibility:hidden}.wp-block-image img.show{animation:show-content-image .4s}}.wp-block-image[style*=border-radius] img,.wp-block-image[style*=border-radius]>a{border-radius:inherit}.wp-block-image.has-custom-border img{box-sizing:border-box}.wp-block-image.aligncenter{text-align:center}.wp-block-image.alignfull a,.wp-block-image.alignwide a{width:100%}.wp-block-image.alignfull img,.wp-block-image.alignwide img{height:auto;width:100%}.wp-block-image .aligncenter,.wp-block-image .alignleft,.wp-block-image .alignright,.wp-block-image.aligncenter,.wp-block-image.alignleft,.wp-block-image.alignright{display:table}.wp-block-image .aligncenter>figcaption,.wp-block-image .alignleft>figcaption,.wp-block-image .alignright>figcaption,.wp-block-image.aligncenter>figcaption,.wp-block-image.alignleft>figcaption,.wp-block-image.alignright>figcaption{caption-side:bottom;display:table-caption}.wp-block-image .alignleft{float:left;margin:.5em 1em .5em 0}.wp-block-image .alignright{float:right;margin:.5em 0 .5em 1em}.wp-block-image .aligncenter{margin-left:auto;margin-right:auto}.wp-block-image :where(figcaption){margin-bottom:1em;margin-top:.5em}.wp-block-image.is-style-circle-mask img{border-radius:9999px}@supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none){.wp-block-image.is-style-circle-mask img{border-radius:0;-webkit-mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-mode:alpha;-webkit-mask-position:center;mask-position:center;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:contain;mask-size:contain}}:root :where(.wp-block-image.is-style-rounded img,.wp-block-image .is-style-rounded img){border-radius:9999px}.wp-block-image figure{margin:0}.wp-lightbox-container{display:flex;flex-direction:column;position:relative}.wp-lightbox-container img{cursor:zoom-in}.wp-lightbox-container img:hover+button{opacity:1}.wp-lightbox-container button{align-items:center;-webkit-backdrop-filter:blur(16px) saturate(180%);backdrop-filter:blur(16px) saturate(180%);background-color:#5a5a5a40;border:none;border-radius:4px;cursor:zoom-in;display:flex;height:20px;justify-content:center;opacity:0;padding:0;position:absolute;right:16px;text-align:center;top:16px;transition:opacity .2s ease;width:20px;z-index:100}.wp-lightbox-container button:focus-visible{outline:3px auto #5a5a5a40;outline:3px auto -webkit-focus-ring-color;outline-offset:3px}.wp-lightbox-container button:hover{cursor:pointer;opacity:1}.wp-lightbox-container button:focus{opacity:1}.wp-lightbox-container button:focus,.wp-lightbox-container button:hover,.wp-lightbox-container button:not(:hover):not(:active):not(.has-background){background-color:#5a5a5a40;border:none}.wp-lightbox-overlay{box-sizing:border-box;cursor:zoom-out;height:100vh;left:0;overflow:hidden;position:fixed;top:0;visibility:hidden;width:100%;z-index:100000}.wp-lightbox-overlay .close-button{align-items:center;cursor:pointer;display:flex;justify-content:center;min-height:40px;min-width:40px;padding:0;position:absolute;right:calc(env(safe-area-inset-right) + 16px);top:calc(env(safe-area-inset-top) + 16px);z-index:5000000}.wp-lightbox-overlay .close-button:focus,.wp-lightbox-overlay .close-button:hover,.wp-lightbox-overlay .close-button:not(:hover):not(:active):not(.has-background){background:none;border:none}.wp-lightbox-overlay .lightbox-image-container{height:var(--wp--lightbox-container-height);left:50%;overflow:hidden;position:absolute;top:50%;transform:translate(-50%,-50%);transform-origin:top left;width:var(--wp--lightbox-container-width);z-index:9999999999}.wp-lightbox-overlay .wp-block-image{align-items:center;box-sizing:border-box;display:flex;height:100%;justify-content:center;margin:0;position:relative;transform-origin:0 0;width:100%;z-index:3000000}.wp-lightbox-overlay .wp-block-image img{height:var(--wp--lightbox-image-height);min-height:var(--wp--lightbox-image-height);min-width:var(--wp--lightbox-image-width);width:var(--wp--lightbox-image-width)}.wp-lightbox-overlay .wp-block-image figcaption{display:none}.wp-lightbox-overlay button{background:none;border:none}.wp-lightbox-overlay .scrim{background-color:#fff;height:100%;opacity:.9;position:absolute;width:100%;z-index:2000000}.wp-lightbox-overlay.active{animation:turn-on-visibility .25s both;visibility:visible}.wp-lightbox-overlay.active img{animation:turn-on-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active){animation:turn-off-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active) img{animation:turn-off-visibility .25s both}@media (prefers-reduced-motion:no-preference){.wp-lightbox-overlay.zoom.active{animation:none;opacity:1;visibility:visible}.wp-lightbox-overlay.zoom.active .lightbox-image-container{animation:lightbox-zoom-in .4s}.wp-lightbox-overlay.zoom.active .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.active .scrim{animation:turn-on-visibility .4s forwards}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active){animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container{animation:lightbox-zoom-out .4s}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .scrim{animation:turn-off-visibility .4s forwards}}@keyframes show-content-image{0%{visibility:hidden}99%{visibility:hidden}to{visibility:visible}}@keyframes turn-on-visibility{0%{opacity:0}to{opacity:1}}@keyframes turn-off-visibility{0%{opacity:1;visibility:visible}99%{opacity:0;visibility:visible}to{opacity:0;visibility:hidden}}@keyframes lightbox-zoom-in{0%{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale))}to{transform:translate(-50%,-50%) scale(1)}}@keyframes lightbox-zoom-out{0%{transform:translate(-50%,-50%) scale(1);visibility:visible}99%{visibility:visible}to{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale));visibility:hidden}}
+</style>
+<style id='wp-block-image-theme-inline-css'>
+:root :where(.wp-block-image figcaption){color:#555;font-size:13px;text-align:center}.is-dark-theme :root :where(.wp-block-image figcaption){color:#ffffffa6}.wp-block-image{margin:0 0 1em}
+</style>
+<style id='wp-block-separator-inline-css'>
+@charset "UTF-8";.wp-block-separator{border:none;border-top:2px solid}:root :where(.wp-block-separator.is-style-dots){height:auto;line-height:1;text-align:center}:root :where(.wp-block-separator.is-style-dots):before{color:currentColor;content:"···";font-family:serif;font-size:1.5em;letter-spacing:2em;padding-left:2em}.wp-block-separator.is-style-dots{background:none!important;border:none!important}
+</style>
+<style id='wp-block-separator-theme-inline-css'>
+.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}
+</style>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script defer="defer" src="https://etna.io/wp-content/themes/etna-refonte-theme/dist/js/functions.js" id="functions-js"></script>
+<script defer="defer" src="https://etna.io/wp-content/themes/etna-refonte-theme/dist/js/global.js" id="global-js"></script>
+<script defer="defer" src="https://etna.io/wp-content/themes/etna-refonte-theme/vendors/swiper/swiper-bundle.min.js" id="swiper-js"></script>
+<script defer="defer" src="https://etna.io/wp-content/themes/etna-refonte-theme/blocks/accueil-header/assets/js/accueil-header.js" id="block-accueil-header-js"></script>
+<script defer="defer" src="https://etna.io/wp-content/themes/etna-refonte-theme/blocks/chiffres-cles/assets/js/chiffres-cles.js" id="block-chiffres-cles-js"></script>
+<script defer="defer" src="https://etna.io/wp-content/themes/etna-refonte-theme/blocks/liens-icones/assets/js/liens-icones.js" id="block-liens-icones-js"></script>
+<script defer="defer" src="https://etna.io/wp-content/themes/etna-refonte-theme/blocks/actualites/assets/js/actualites.js" id="block-actualites-js"></script>
+<script defer="defer" src="https://static.ionis-group.com/js/ecoles.min.js?ver=6.7.1" id="liste_ecoles-js"></script>
+<script id="show_schools-js-extra">
+var footer_ecole = {"footer":".footer_ecoles_ecoles","ecole":"etna","element":"p","separation":"-"};
+</script>
+<script defer="defer" src="https://etna.io/wp-content/plugins/wordpress-plugin-ionis-footer/js/schools.js?ver=6.7.1" id="show_schools-js"></script>
+
+    <div id="default" class="modal js-modal">
+    <div class="modal_bg js-modal_close"></div>
+    <div class="modal_inner">
+      <a href="" class="modal_close js-modal_close">
+        <span class="modal_close_cross"></span> Fermer
+      </a>
+      <div class="modal_inner_container"></div>
+    </div>
+  </div>
+
+  <div id="video" class="modal js-modal">
+    <div class="modal_bg js-modal_close"></div>
+    <div class="modal_inner">
+      <a href="" class="modal_close js-modal_close">
+        <span class="modal_close_cross"></span> Fermer
+      </a>
+      <div class="modal_inner_container"></div>
+    </div>
+  </div>
+
+  
+</body>
+</html>
